@@ -24,7 +24,7 @@
 
 # Keyboard Shortcut I Use
 * ctrl-A
-* Shift + arrow key
+* shift + arrow key
 * ctrl-X
 
 # Keboard shorcuts I Would Like To Use
