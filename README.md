@@ -21,3 +21,13 @@
 # Experiments
 * :sweat::speech_balloon:
 * :scream::dash:
+
+# Keyboard Shortcut I Use
+* ctrl-A
+* Shift + arrow key
+* ctrl-X
+
+# Keboard shorcuts I Would Like To Use
+* ctrl-L
+* ctrl-F
+* ctrl-P
