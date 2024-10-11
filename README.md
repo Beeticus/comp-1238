@@ -16,7 +16,8 @@
   
 # Links
 [Learn at George Brown](learn.beorgebrown.ca)\
-[Cisico Netcad](https://www.netacad.com/)
+[Cisico Netcad](https://www.netacad.com/)\
+[CLI commands](docs/cli.md)
 
 # Experiments
 * :sweat::speech_balloon:
