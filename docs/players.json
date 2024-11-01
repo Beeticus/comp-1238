@@ -1,34 +1,34 @@
 [
   {
-    "Name": "LeBron James",
-    "Sport": " Basketball",
-    "Team Name": " Lakers",
-    "Team City": " Los Angeles",
-    "Position": " Forward",
-    "Age": 38
+    "Name": "LeBron James", //String
+    "Sport": " Basketball", //String
+    "Team Name": " Lakers", //String
+    "Team City": " Los Angeles", //String
+    "Position": " Forward", //String
+    "Age": 38 //Integer
   },
   {
-    "Name": "Lionel Messi",
-    "Sport": " Soccer",
-    "Team Name": " Inter Miami",
-    "Team City": " Miami",
-    "Position": " Forward",
-    "Age": 36
+    "Name": "Lionel Messi", //String
+    "Sport": " Soccer", //String
+    "Team Name": " Inter Miami", //String
+    "Team City": " Miami", //String
+    "Position": " Forward", //String
+    "Age": 36 //Integer
   },
   {
-    "Name": "Serena Williams",
-    "Sport": " Tennis",
-    "Team Name": " N/A",
-    "Team City": " N/A",
-    "Position": " Player",
-    "Age": 41
+    "Name": "Serena Williams", //String
+    "Sport": " Tennis", //String
+    "Team Name": " N/A", //String
+    "Team City": " N/A", //String
+    "Position": " Player", //String
+    "Age": 41 //Integer
   },
   {
-    "Name": "Tom Brady",
-    "Sport": " Football",
-    "Team Name": " Buccaneers",
-    "Team City": " Tampa Bay",
-    "Position": " Quarterback",
-    "Age": 46
+    "Name": "Tom Brady", //String
+    "Sport": " Football", //String
+    "Team Name": " Buccaneers", //String
+    "Team City": " Tampa Bay", //String
+    "Position": " Quarterback", //String
+    "Age": 46 //Integer
   }
 ]
